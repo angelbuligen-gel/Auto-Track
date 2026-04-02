@@ -14,7 +14,7 @@
     <div class="container">
 
         <header>
-            <h1><span class="lava">Lava</span>Lite</h1>
+            <h1><span class="lava">Lava bulalo</span>Lite</h1>
             <div class="subtitle">Routing + SQL Builder. Zero bloat.</div>
 
             <p class="tagline">
